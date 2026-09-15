@@ -1,17 +1,42 @@
-# food_menu
+# 🍔 Food Menu App
 
-A new Flutter project.
+A Food Menu mobile application built with **Flutter & Dart** as part of my Flutter learning journey.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Browse food categories
+- Explore food and beverages
+- View product details and ingredients
+- Select different sizes and add-ons
+- Adjust item quantities
+- Dynamic price calculation
+- Add items to the shopping cart
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screens
+
+- Home Screen
+- Beverages Screen
+- Food Details Screen
+- Shopping Cart
+
+## 🚀 Run the Project
+
+```bash
+git clone https://github.com/sara-ahmed-dev/food-menu-app.git
+cd food-menu-app
+flutter pub get
+flutter run
+```
+
+## 👩‍💻 Author
+
+**Sara Ahmed**  
+Computer Science Student | Flutter Developer in Training
+
+[GitHub](https://github.com/sara-ahmed-dev)
